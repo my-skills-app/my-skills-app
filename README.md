@@ -4,6 +4,9 @@
 
 ###
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
