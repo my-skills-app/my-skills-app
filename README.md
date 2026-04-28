@@ -27,6 +27,9 @@ If you are an app developer, do not sign up for the early access program, perfor
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 Hi! I am Hariom Kumar:
 - Passionate contributor to **free software** and board member of [NewPipe e.V.](https://newpipe-ev.de/), enjoys writing code to replace apps and services that do not *respect* the user
@@ -47,6 +50,4 @@ I'm currently working on:
 
 ###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
