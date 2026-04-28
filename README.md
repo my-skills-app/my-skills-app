@@ -30,9 +30,9 @@ If you are an app developer, do not sign up for the early access program, perfor
 
 Hi! I am Hariom Kumar:
 - Passionate contributor to **free software** and board member of [NewPipe e.V.](https://newpipe-ev.de/), enjoys writing code to replace apps and services that do not *respect* the user
-- Member of [**TeachMania**](https://www.teachmania.site), a Edtech Platform focused on education and team work around informatics, electronics and 3d printing
+- Member of [**TeachMania**](https://www.teachmania.site), a Edtech Platform focused on education and team work around informatics, Education and Product Devlopment
 - Participates to **competitive programming** and **cybersecurity** competitions and is a tutor for younger students
-- Studies Computer Science at *ETH Zürich*
+- Studies Computer Science at *BEU University*
 - User of Manjaro Linux with KDE and owner of a *Fairphone 3+* with /e/OS
 
 I'm currently working on:
