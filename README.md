@@ -14,21 +14,16 @@ If you are an app developer, do not sign up for the early access program, perfor
 
 ---
 
-Ciao! I am Stypox:
+Hi! I am Hariom Kumar:
 - Passionate contributor to **free software** and board member of [NewPipe e.V.](https://newpipe-ev.de/), enjoys writing code to replace apps and services that do not *respect* the user
-- Member of [**MindsHub**](https://mindshub.it), a no-profit focused on education and team work around informatics, electronics and 3d printing
+- Member of [**TeachMania**](https://www.teachmania.site), a no-profit focused on education and team work around informatics, electronics and 3d printing
 - Participates to **competitive programming** and **cybersecurity** competitions and is a tutor for younger students
 - Studies Computer Science at *ETH Zürich*
 - User of Manjaro Linux with KDE and owner of a *Fairphone 3+* with /e/OS
 
 I'm currently working on:
-- [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant* (available on F-Droid and Play Store)
+- [**Dicio**](https://github.com/my-skills-app/Aryan-YT--Engine): an Android *Youtube Extractor* (available on F-Droid and Play Store)
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): an Android *YouTube frontend* with many cool features the official YouTube app doesn't have (available on F-Droid)
-- [**dicio-numbers**](https://github.com/Stypox/dicio-numbers): a Java library for multilanguage *number parsing* and formatting
-- [**Tridenta**](https://github.com/Stypox/tridenta): an app to view *public transport* information in Trentino (available on F-Droid and Play Store)
-- [**Curricust**](https://github.com/Stypox/curricust): a Rust program that allows *writing a CV* in YAML and turning that into LaTeX and PDF
-
-
 
 
 
